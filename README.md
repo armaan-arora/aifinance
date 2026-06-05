@@ -300,4 +300,4 @@ If you have any questions or need help, feel free to:
 
 ---
 
-**Made with Next.js, TypeScript, and AI** 🚀
+**Made with Next.js, TypeScript, and Artificial Intelligence** 🚀
