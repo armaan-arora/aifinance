@@ -19,7 +19,7 @@
 - [Environment Variables](#-environment-variables)
 - [Future Scope](#-future-scope)
 - [Contributing](#-contributing)
-- [License](#-license)
+  
 
 ---
 
